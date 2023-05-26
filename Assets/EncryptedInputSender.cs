@@ -8,6 +8,6 @@ public class EncryptedInputSender
         Debug.Log("Sending encrypted input...");
         Debug.Log("Encrypted input: " + BitConverter.ToString(input));
         Debug.Log("Encryption key: " + encryptionKey);
-        // ...
+  
     }
 }
